@@ -1,1 +1,1 @@
-# demo_site_python
+# demo_site_python Django
